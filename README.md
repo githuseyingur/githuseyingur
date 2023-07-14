@@ -1,4 +1,4 @@
-## Hello everyone! I am Hüseyin GÜR  👋
+## Hüseyin GÜR  👋
 
 **📫 Where to find me:** 
 
