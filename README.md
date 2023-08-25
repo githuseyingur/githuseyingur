@@ -26,8 +26,10 @@
 <code><a href="https://kotlinlang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></a></code>
 
+<br>
+<br>
 
-<h3 align="left">GitHub Stats</h3>
+#### GitHub Stats 📈
 
 <p align="left">
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=githuseyingur&show_icons=true&theme=tokyonight" />
@@ -35,12 +37,12 @@
 </p>
 <br>
 
-## GITHUB TROPHIES 📈
+#### GitHub Trophies 📈
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=githuseyingur&margin-w=25&margin-h=25&column=7" />    
 </p> 
 <br>
 
-## PROGRAMMING LANGUAGE USED 📈
+#### Programming Language Used 📈
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githuseyingur&langs_count=10&hide_progress=true&layout=compact" /> 
 
