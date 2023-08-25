@@ -39,7 +39,11 @@
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=githuseyingur&margin-w=25&margin-h=25&column=7" />    
 </p> <br> <br>
+
+
 ## PROGRAMMING LANGUAGE USED 📈
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githuseyingur&langs_count=10&hide_progress=true&layout=compact" /> 
+
+
 
 ![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githuseyingur&hide=javascript,html&theme=radical&layout=compact)
