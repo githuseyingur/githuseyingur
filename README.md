@@ -45,4 +45,9 @@
 
 #### Programming Language Used 📈
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githuseyingur&langs_count=10&hide_progress=true&layout=compact" /> 
+<br>
+<br>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{githuseyingur}/count.svg" alt="githuseyingur :: Visitor's Count" /></p>
 
