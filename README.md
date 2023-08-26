@@ -1,4 +1,6 @@
-## Hüseyin GÜR  👋
+<p align="center">
+   ## Hüseyin GÜR  👋
+</p>
 <br>
 
 <p align="center">
