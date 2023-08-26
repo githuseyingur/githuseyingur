@@ -2,14 +2,14 @@
 <br>
 
 <p align="center">
-📫 Where to find me: <br> <br>
+📫 WHERE TO FIND ME: <br> <br>
 <code align="center"><a href="https://www.instagram.com/gur_huseyinn/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"></a></code>
 <code align="center"><a href="https://tr.linkedin.com/in/huseyingur0001" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
 </p>
 <br>
 
 <p align="center">
-👨🏻‍💻 ####Currently working on: <br> <br>
+👨🏻‍💻 CURRENTLY WORKING ON: <br> <br>
 <code align="center"><a href="https://www.android.com/intl/tr_tr/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
 <code align="center"><a href="https://www.flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
 <code align="center"><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-💬 Ask me about: <br> <br>
+💬 ASK ME ABOUT: <br> <br>
 <code align="center"><a href="https://www.android.com/intl/tr_tr/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
 <code align="center"><a href="https://www.flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
 <code align="center"><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-⛰ Looking forward to learn: <br> <br>
+⛰ LOOKING FORWARD TO LEARN: <br> <br>
 <code align="center"><a href="https://learn.microsoft.com/en-us/dotnet/welcome" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"></a></code>
 <code align="center"><a href="https://kotlinlang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></a></code>
 <code align="center"><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></a></code>
