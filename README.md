@@ -34,7 +34,7 @@
 <br>
 <br>
 
-<h4 align="center">GitHub Stats 📈</h4> 
+<h3 align="center">GitHub Stats 📈</h3> 
 
 <p align="center">
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=githuseyingur&show_icons=true&theme=tokyonight" />
@@ -42,19 +42,19 @@
 </p>
 <br>
 
-<h4 align="center">GitHub Trophies 📈</h4> 
+<h3 align="center">GitHub Trophies 📈</h3> 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=githuseyingur&margin-w=25&margin-h=25&column=7" />    
 </p> 
 <br>
 
-<h4 align="center">Programming Languages Used 📈</h4> 
+<h3 align="center">Programming Languages Used 📈</h3> 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githuseyingur&langs_count=10&hide_progress=true&layout=compact" /> 
 </p> 
 <br>
 <br>
 
-<h4 align="center">Visitor's Count :eyes:</h4>
+<h3 align="center">Visitor's Count :eyes:</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{githuseyingur}/count.svg" alt="githuseyingur :: Visitor's Count" /></p>
 
