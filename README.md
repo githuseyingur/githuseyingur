@@ -1,5 +1,5 @@
 <p align="center">
-   ## Hüseyin GÜR  👋
+   <h2 align="center">Hüseyin GÜR 👋</h2>  
 </p>
 <br>
 
