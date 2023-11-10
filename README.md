@@ -44,11 +44,6 @@
 </p>
 <br>
 
-<h3 align="center">GitHub Trophies 📈</h3> 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=githuseyingur&margin-w=25&margin-h=25&column=7" />    
-</p> 
-<br>
 
 <h3 align="center">Programming Languages Used 📈</h3> 
 <p align="center">
