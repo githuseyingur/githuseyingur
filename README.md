@@ -34,21 +34,7 @@
 <code align="center"><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></a></code>
 </p>
 <br>
-<br>
 
-<h3 align="center">GitHub Stats 📈</h3> 
-
-<p align="center">
-   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=githuseyingur&show_icons=true&theme=tokyonight" />
-   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=githuseyingur&theme=tokyonight" />
-</p>
-<br>
-
-
-<h3 align="center">Programming Languages Used 📈</h3> 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githuseyingur&langs_count=10&hide_progress=true&layout=compact" /> 
-</p> 
 <br>
 <br>
 
