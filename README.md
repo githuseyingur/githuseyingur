@@ -25,8 +25,6 @@
 
 <p align="center">
 ⛰ LOOKING FORWARD TO LEARN : <br> <br>
-<code align="center"><a href="https://learn.microsoft.com/en-us/dotnet/welcome" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"></a></code>
-<code align="center"><a href="https://kotlinlang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></a></code>
 <code align="center"><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></a></code>
 </p>
 <br>
