@@ -4,28 +4,9 @@
 <br>
 
 <p align="center">
-📫 WHERE TO FIND ME : <br> <br>
+<br> <br>
 <code align="center"><a href="https://www.instagram.com/gur_huseyinn/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"></a></code>
 <code align="center"><a href="https://tr.linkedin.com/in/huseyingur0001" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
-</p>
-<br>
-
-<p align="center">
-👨🏻‍💻 CURRENTLY WORKING ON : <br> <br>
-<code align="center"><a href="https://www.android.com/intl/tr_tr/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
-<code align="center"><a href="https://www.flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
-<code align="center"><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
-<code align="center"><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
-</p>
-<br>
-
-
-
-<br>
-
-<p align="center">
-⛰ LOOKING FORWARD TO LEARN : <br> <br>
-<code align="center"><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></a></code>
 </p>
 <br>
 
