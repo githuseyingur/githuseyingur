@@ -4,8 +4,9 @@
 <code align="center"><a href="https://tr.linkedin.com/in/huseyingur0001" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
 </p>
 <br>
-
+<p align="center">
 <img src="https://github.com/githuseyingur/githuseyingur/assets/120099096/fc0531d8-0acc-49c7-a645-775661f39ec6"  width="200" height ="200">
+  </p>
 <br>
 <br>
 
