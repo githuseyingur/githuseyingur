@@ -5,10 +5,11 @@
 </p>
 <br>
 <p align="center">
-<img src="https://github.com/githuseyingur/githuseyingur/assets/120099096/289b258e-0f6b-44e5-b4ae-003753f91cf7"  width="200" height ="250">
+<img src="https://github.com/githuseyingur/githuseyingur/assets/120099096/cef33e32-a7f6-43bb-9ee4-5be3417cb74e"  width="200" height ="250">
   </p>
 <br>
 <br>
+
 
 
 <h3 align="center">Visitor's Count :eyes:</h3>
