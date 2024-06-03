@@ -5,6 +5,7 @@
 </p>
 <br>
 
+<img src="https://github.com/githuseyingur/githuseyingur/assets/120099096/fc0531d8-0acc-49c7-a645-775661f39ec6"  width="200" height ="200">
 <br>
 <br>
 
