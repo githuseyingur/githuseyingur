@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/1417442a-ca3b-4cda-b1fe-e3682b0b48fd"  width="320">
+<img src="https://github.com/user-attachments/assets/1417442a-ca3b-4cda-b1fe-e3682b0b48fd"  width="400">
 
 <br> 
 How to reach me:
