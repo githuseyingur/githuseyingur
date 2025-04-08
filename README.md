@@ -11,9 +11,9 @@ How to reach me:
 <h2>Personal Projects</h2>
 <h3>Mobile Apps</h3>
 
-* Excryon : Become A Trader Sim  -  [![Excryon on Google Play](https://img.shields.io/badge/Play_Store-Excryon-blue?logo=google-play)](https://play.google.com/store/apps/details?id=com.huseyingur.excryon&hl=tr) <br>
-(Crypto Trading Simulation)
-* Ecliptor : Uncharted Space - [![Ecliptor on Google Play](https://img.shields.io/badge/Play_Store-Ecliptor-blue?logo=google-play)](https://play.google.com/store/apps/details?id=com.huseyingur.ecliptor&hl=en) <br>
-(Everything about Space)
+* Excryon : Become A Trader Sim  - (Crypto Trading Simulation) <br>[![Excryon on Google Play](https://img.shields.io/badge/Play_Store-Excryon-blue?logo=google-play)](https://play.google.com/store/apps/details?id=com.huseyingur.excryon&hl=tr)
+
+* Ecliptor : Uncharted Space - (Everything about Space) <br> [![Ecliptor on Google Play](https://img.shields.io/badge/Play_Store-Ecliptor-blue?logo=google-play)](https://play.google.com/store/apps/details?id=com.huseyingur.ecliptor&hl=en)
+
 
 
