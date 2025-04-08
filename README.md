@@ -5,7 +5,7 @@
 How to reach me:
 <br><br> 
 <code ><a href="https://www.instagram.com/huseyingur.dev/" target="_blank"><img height="60" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a></code>
-<code ><a href="https://tr.linkedin.com/in/huseyingur0001" target="_blank"><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a></code>
+<code ><a href="https://tr.linkedin.com/in/huseyingur0001" target="_blank"><img height="60" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a></code>
 <code ><a href="https://x.com/huseyingur_dev" target="_blank"><img height="60" src="https://www.vectorlogo.zone/logos/x/x-icon.svg"></a></code> <br><br>
 
 Personal Projects - Mobile Apps<br>
