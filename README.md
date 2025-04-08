@@ -9,5 +9,5 @@ How to reach me:
 <code ><a href="https://x.com/huseyingur_dev" target="_blank"><img height="60" src="https://www.vectorlogo.zone/logos/x/x-icon.svg"></a></code> <br><br>
 
 Personal Projects - Mobile Apps<br>
-[Excryon: Become a Trader Sim] (https://link-url-here.org](https://play.google.com/store/apps/details?id=com.huseyingur.excryon&hl=en)
+[Excryon: Become a Trader Sim](https://play.google.com/store/apps/details?id=com.huseyingur.excryon&hl=tr)
 
