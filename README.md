@@ -13,6 +13,7 @@ How to reach me:
 
 * Excryon : Become A Trader Sim  -  [![Excryon on Google Play](https://img.shields.io/badge/Play_Store-Excryon-blue?logo=google-play)](https://play.google.com/store/apps/details?id=com.huseyingur.excryon&hl=tr) <br>
 (Crypto Trading Simulation)
-* [Ecliptor : Uncharted Space](https://play.google.com/store/apps/details?id=com.huseyingur.ecliptor&hl=en) - Everything About Space: 3D Objects, Upcoming Events & Missions, Theories, Stars, Black Holes, Picture of The Day 
+* Ecliptor : Uncharted Space - [![Ecliptor on Google Play](https://img.shields.io/badge/Play_Store-Ecliptor-blue?logo=google-play)](https://play.google.com/store/apps/details?id=com.huseyingur.ecliptor&hl=en) <br>
+(Everything about Space)
 
 
