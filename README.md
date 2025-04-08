@@ -18,4 +18,4 @@ How to reach me:
 <h3>AI</h3>
 
 > Brain Tumor Segmentation with U-NET CNN Model (Final Thesis)
-> t
+> 
