@@ -10,5 +10,5 @@ How to reach me:
 
 Personal Projects - Mobile Apps<br>
 * [Excryon : Become a Trader Sim](https://play.google.com/store/apps/details?id=com.huseyingur.excryon&hl=tr)
-* [Ecliptor: Uncharted Space](https://play.google.com/store/apps/details?id=com.huseyingur.ecliptor&hl=en)
+* [Ecliptor : Uncharted Space](https://play.google.com/store/apps/details?id=com.huseyingur.ecliptor&hl=en)
 
