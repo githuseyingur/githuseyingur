@@ -20,4 +20,4 @@ How to reach me:
 <h3>AI</h3>
 
 > Brain Tumor Segmentation with U-NET CNN Model (Final Thesis)
-> 
+> CMI - Detect Behaviour From Sensor Data | EDA, FE, MODELLING (0.86 score - special metric)
