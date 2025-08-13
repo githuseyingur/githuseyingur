@@ -15,6 +15,8 @@ How to reach me:
 
 > Ecliptor : Uncharted Space - (Everything about Space) <br><br> [![Ecliptor on Google Play](https://img.shields.io/badge/Play_Store-Ecliptor_:_Uncharted_Space-1f6691?logo=google-play)](https://play.google.com/store/apps/details?id=com.huseyingur.ecliptor&hl=en)<br>
 
+> TrueMeter - Distance Calculator <br><br> [![TrueMeter on Google Play](https://img.shields.io/badge/Play_Store-TrueMeter__:__Distance_Calculator-1f6691?logo=google-play)](https://play.google.com/store/apps/details?id=com.huseyingur.truemeter&hl=en)<br>
+
 <h3>AI</h3>
 
 > Brain Tumor Segmentation with U-NET CNN Model (Final Thesis)
