@@ -11,11 +11,11 @@ How to reach me:
 <h2>Personal Projects</h2>
 <h3>Mobile Apps</h3>
 
-> Excryon : Become A Trader Sim  &nbsp;|&nbsp;  +5K Users <br><br>[![Excryon on Google Play](https://img.shields.io/badge/Play_Store-Excryon_:_Become_A_Trader_Sim-1f6691?logo=google-play)](https://play.google.com/store/apps/details?id=com.huseyingur.excryon&hl=en)
+> Excryon : Become A Trader Sim  &nbsp;&nbsp;&nbsp;|&nbsp;  +5K Users <br><br>[![Excryon on Google Play](https://img.shields.io/badge/Play_Store-Excryon_:_Become_A_Trader_Sim-1f6691?logo=google-play)](https://play.google.com/store/apps/details?id=com.huseyingur.excryon&hl=en)
 
-> Ecliptor : 3D Space & Astronomy  &nbsp;|&nbsp;  +100 Users  <br><br> [![Ecliptor on Google Play](https://img.shields.io/badge/Play_Store-Ecliptor_:_Uncharted_Space-1f6691?logo=google-play)](https://play.google.com/store/apps/details?id=com.huseyingur.ecliptor&hl=en)<br>
+> Ecliptor : 3D Space & Astronomy  &nbsp;&nbsp;&nbsp;|&nbsp;  +100 Users  <br><br> [![Ecliptor on Google Play](https://img.shields.io/badge/Play_Store-Ecliptor_:_Uncharted_Space-1f6691?logo=google-play)](https://play.google.com/store/apps/details?id=com.huseyingur.ecliptor&hl=en)<br>
 
-> TrueMeter - Distance Calculator  &nbsp;|&nbsp;  +100 Users   <br><br> [![TrueMeter on Google Play](https://img.shields.io/badge/Play_Store-TrueMeter_:_Distance_Calculator-1f6691?logo=google-play)](https://play.google.com/store/apps/details?id=com.huseyingur.truemeter&hl=en)<br>
+> TrueMeter - Distance Calculator  &nbsp;&nbsp;&nbsp;|&nbsp;  +100 Users   <br><br> [![TrueMeter on Google Play](https://img.shields.io/badge/Play_Store-TrueMeter_:_Distance_Calculator-1f6691?logo=google-play)](https://play.google.com/store/apps/details?id=com.huseyingur.truemeter&hl=en)<br>
 
 <h3>Data Science (AI)</h3>
 
